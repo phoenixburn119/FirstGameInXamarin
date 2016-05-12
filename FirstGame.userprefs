@@ -1,1 +1,18 @@
-﻿<Properties StartupItem="FirstGame/FirstGame.csproj" />
+﻿<Properties StartupItem="FirstGame/FirstGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstGame/Controller/SpaceGame.cs">
+    <Files>
+      <File FileName="FirstGame/Controller/SpaceGame.cs" Line="78" Column="47" />
+      <File FileName="FirstGame/Model/Player.cs" Line="77" Column="4" />
+      <File FileName="FirstGame/View/Animation.cs" Line="56" Column="9" />
+      <File FileName="FirstGame/View/ParallaxingBackground.cs" Line="14" Column="4" />
+      <File FileName="FirstGame/Model/Enemy.cs" Line="59" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/akin8529/Documents/Xamarin Workspace/FirstGame/FirstGame/Controller/SpaceGame.cs" line="180" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
